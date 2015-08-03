@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	
+	<meta title="Jimo" package="com.jimo" version="0.0.1" company="" />
+	<app main="Main" path="Export" file="Jonax" />
+
+    <window fps="60"></window>
+	
+	<source path="Source" />
+	
+	<haxelib name="openfl" />
+	
+	<assets path="Assets" rename="assets" />
+	
+</project>
